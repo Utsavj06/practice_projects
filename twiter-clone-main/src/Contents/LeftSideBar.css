@@ -1,0 +1,46 @@
+.Left-Item {
+  font-size: 20px;
+  font-family: "Lato", sans-serif;
+  padding-top: 13px;
+  padding-left: 10px;
+}
+
+.Left-Item:hover {
+  text-decoration: none;
+  color: white;
+  background-color: rgb(36, 35, 35);
+  width: 180px;
+  height: 35px;
+  border-radius: 20px;
+}
+.item {
+  color: white;
+  display: flex;
+
+  width: 150px;
+}
+
+a:link {
+  text-decoration: none;
+  color: white;
+}
+
+a:active {
+  text-decoration: none;
+  color: white;
+  text-align: center;
+}
+
+a:visited {
+  text-decoration: none;
+  color: white;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.Item_Name {
+  margin-left: 1rem;
+}

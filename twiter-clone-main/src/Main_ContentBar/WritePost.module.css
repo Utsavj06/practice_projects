@@ -1,0 +1,30 @@
+.writing {
+  margin: 20px 100px;
+  width: 400px;
+  height: 65px;
+  background-color: black;
+  border: none;
+  font-size: 20px;
+  color: white;
+}
+
+.icon {
+  display: flex;
+  width: 200px;
+  font-size: 25px;
+  color: rgb(32, 32, 77);
+  justify-content: space-between;
+  padding: 7px 80px;
+}
+
+.input {
+  width: 560px;
+  margin-left: 371px;
+  background-color: black;
+}
+
+.post-item {
+  display: flex;
+  width: 559px;
+  border-bottom: 1px solid silver;
+}

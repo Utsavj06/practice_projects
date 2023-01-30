@@ -1,0 +1,18 @@
+.Content-Gap {
+  padding-top: 10%;
+}
+
+.operations {
+  display: flex;
+  gap: 20px;
+  margin-top: 40px;
+}
+
+.newcolor {
+  width: 50px;
+  height: 32px;
+  background-color: rgb(123, 123, 182);
+  border: none;
+  font-size: 15px;
+  color: Black;
+}

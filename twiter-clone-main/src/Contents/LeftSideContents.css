@@ -1,0 +1,67 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.Left {
+  position: fixed;
+}
+
+.ContentsLeft {
+  padding-top: 15px;
+  padding-left: 70px;
+  background-color: red;
+  height: 11rem;
+  font-size: 10px;
+  border-right: 1px solid silver;
+}
+.ContentsItems {
+  display: grid;
+  grid-template-rows: 54px 50px 50px 50px 50px 50px 50px 50px 50px 30px;
+  width: 300px;
+}
+
+/* Css for Modal */
+
+.pop-up {
+  background-color: Black;
+  top:0;
+  width: 400px;
+  height: 300px;
+  margin:12% 35%;
+  border: 0.05px solid silver;
+  position:fixed;
+}
+
+.sizing {
+  margin: 50px 50px;
+  width: 300px;
+  height: 65px;
+  background-color: black;
+  border: none;
+  font-size: 20px;
+  color: white;
+}
+
+.icons {
+  display: flex;
+  width: 150px;
+  font-size: 20px;
+  color: rgb(32, 32, 77);
+  justify-content: space-between;
+  padding: 0px 50px;
+}
+
+.post-items {
+  display: flex;
+  width: 559px;
+  padding-top: 2%;
+}
+
+.Close {
+  font-size: 2rem;
+  padding-left: 0.5rem;
+  color: white;
+  cursor: pointer;
+  display: block;
+}
